@@ -37,7 +37,7 @@ VALUES
 
 -- Can be used when order is known
 INSERT INTO student VALUES (104,"ram");
-
+4
 -- Select and view all columns data
 SELECT * FROM table_name;
 

@@ -4,7 +4,7 @@ CREATE DATABASE ABC;
 
 -- Q2. Create a table inside the DB to store employee info(id,name and salary)
 
-USE ABC;
+USE ABC;  
 
 CREATE TABLE employee(
     id INT PRIMARY KEY,
