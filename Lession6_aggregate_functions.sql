@@ -1,3 +1,4 @@
+
 -- Aggregate functions: They perform a calculation on a set of values, and return a single value
 
 -- COUNT()
